@@ -1,0 +1,175 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Bhaktapur Durbar Sqaure",
+        "comment": "Amazing architecture; walk around, spend at least half a day here.",
+        "marker-symbol": "monument"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.42823642492294,
+          27.672038786560613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "cafe",
+        "name": "Sweet Shop",
+        "comment": "Ask for \"Jeri Swari\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.32450467348099,
+          27.671934268077223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "name": "Falcha",
+        "comment": "Good Newari Food; try the Momocha."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.31107485294342,
+          27.676255073824297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "name": "Ghangri Cafe",
+        "comment": "Open-faced Momos."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.31354784965515,
+          27.678335840695652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "name": "G G Macchan",
+        "comment": "Ask for Jhol Momo. Its Momos in a soup."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.31392872333527,
+          27.676043669492724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "name": "Newa Lahana",
+        "comment": "Great Newari Food. Try SamayaBajhi, Chhyang."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.27426958084106,
+          27.678967663886997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "beer",
+        "name": "Patan Juice Center",
+        "comment": "The mango smoothies here in summer are amazing. Juices are good all year-round."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.32363295555115,
+          27.674559076988654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "museum",
+        "name": "Patan Museum",
+        "comment": "Worth the entry fee :)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.32525300979614,
+          27.672924814233085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "Peacock Window",
+        "comment": "Don't miss this area, the peacock window is amazing wood-carving!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4355937242508,
+          27.67313859999495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "name": "Coffee Pasal",
+        "comment": "Amazing Eggs Benedict!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.31765162944794,
+          27.712938215924826
+        ]
+      }
+    }
+  ]
+}
