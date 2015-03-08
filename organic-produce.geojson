@@ -1,0 +1,90 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "1905 Saturday Farmer's Market",
+        "time": "Saturdays, 9AM - 1pm (roughly)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.31448125839233,
+          27.71312342904188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Paluwa Organic Market",
+        "time": "9AM-7PM Everyday"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3311163187027,
+          27.72287754203772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Yellow House Sunday Farmer's Market",
+        "time": "Sunday 9AM-12PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.30580967664719,
+          27.682535258587322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Organic House",
+        "time": "Everyday 9AM-8PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.30602157115936,
+          27.681513921810048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Farmer Mart",
+        "time": "Everyday 9AM-8PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.30969619750977,
+          27.679005668172955
+        ]
+      }
+    }
+  ]
+}
