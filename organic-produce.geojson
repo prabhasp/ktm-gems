@@ -41,6 +41,24 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
+        "name": "Bu Ke Ba",
+        "time": "Everyday 9AM-9PM",
+        "comment": "Not focused on fresh produce."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.31304359436035,
+          27.683442577666366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "name": "Yellow House Sunday Farmer's Market",
         "time": "Sunday 9AM-12PM"
       },
